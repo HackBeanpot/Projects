@@ -1,0 +1,112 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0; }
+
+html, body {
+  height: 100%; }
+
+body {
+  background-color: #e1e8ec;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  color: #283a4a;
+  font-size: 1.8rem; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit; }
+
+h1 {
+  margin-bottom: 1em;
+  font-size: 1.8em;
+  letter-spacing: 1px; }
+
+h2 {
+  font-size: 1.5em; }
+
+p {
+  margin: 1em 0; }
+
+a {
+  color: #3db505; }
+  a:hover {
+    color: #b5db92;
+    text-decoration: none; }
+
+h1 {
+  font-size: 3.2rem;
+  text-transform: uppercase;
+  font-weight: 300; }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+.logo {
+  max-width: 350px;
+  width: 100%;
+  margin-top: 15px; }
+
+.header a {
+  font-weight: bold;
+  text-decoration: none; }
+
+.title {
+  display: inline-block;
+  margin-bottom: 2em; }
+
+.header a.extra {
+  color: #aaa;
+  margin-left: 1em; }
+
+.header a.extra:hover {
+  color: #000; }
+
+.meta {
+  color: #aaa; }
+
+.footer {
+  background-color: #283a4a;
+  color: #e1e8ec;
+  padding: 30px 0;
+  font-size: 2rem;
+  margin-top: 2em;
+  font-weight: 300;
+  text-align: center; }
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+/* standard */
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em; }
+
+.post ul, .post ol {
+  margin-left: 1.35em; }
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em; }
+
+.post pre code {
+  border: none; }
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF; }
+
+.post pre.terminal code {
+  background-color: #333; }
