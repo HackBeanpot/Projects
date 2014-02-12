@@ -17,3 +17,5 @@ Our application allows the user to anonymously place sounds at their location, a
 #### Made by Chris Kolek, Ryan Sullivan, and Deniz Ozkaynak ####
 
 A social Android app that lets users create or join groups of friends and share embarrassing and hilarious stories about each other. Users can vote on each other's stories throughout the week (votes hidden). At the end of the week the top story is revealed and wins the title of "The Shaft" until next week.
+
+### [Random thingy pointing somewhere](http://www.safari4uvet.com/) ###
