@@ -94,6 +94,21 @@ Adventur uses your past location history to create a probabilistic model that is
 capable of predicting your future movements and creating a measurement of how
 predictable your past movements have been.
 
+### [AJAT Social Gaming Platform](https://github.com/AJATInc/AJATDC) ###
+#### Made by Alexey Shablygin, John O'rourke, Tyler McCabe, and Adam Power ####
+
+AJAT framework provides (or eventually will provide) a flexible way to create,
+organize and manage social role playing games (such as human vs. zombies). The
+main goal of AJAT is to encourage individuals/groups to create new exciting role
+playing games, or to modify existing ones, easily add players, and create all
+sorts of interactive events and challenges by incorporating Google Geolocation
+API. As a player, you will have a mobile app that allows you to keep track of
+your active games/join new ones, location activated game events and personal
+stats. As an administrator, you will have (again, eventually) a large variety of
+options to manage and modify your own game to fit specific preferences of your
+player base. The AJAT framework works across all three major operating systems,
+and will also provide a web-based interface as well.
+
 ### [The Daily Planet](http://namank.github.io/DailyPlanet/) (Finalist!) ###
 #### Made by Avery Gray, Namank Shah, and Nilesh Khaitan ####
 
@@ -211,6 +226,14 @@ on inspiration -- or as we like to say, low on fuel.
 
 We've made a challenge app that actually works.
 
+### [Gather This](https://play.google.com/store/apps/details?id=com.oscode.gatherthis) ###
+#### Made by Oscar Lee Spencer III ####
+
+It is a mobile application that assists the Magic: The Gathering player. It
+features a life counter, one that is simple and easy to use. It also allows the
+user to browse any card in the game, and features the full comprehensive
+rulebook.
+
 ### [General Chombie](http://generalchombie.com) ###
 #### Made by Marco Chiang and Steven Tso ####
 
@@ -229,6 +252,23 @@ next task. You now have 2 minutes to brush your teeth... etc.
 Our goal is to help business professionals, students, and anyone with a routine
 to make sure they are on schedule to make sure they can get to the important
 things in their day.
+
+### [#selfiEE](https://github.com/themeh) ###
+#### Made by Zachary Goodman and Omid Meh ####
+
+Uses webcam to recognize facial emotions, transmits information over a wireless
+network to an LED grid smiley face that mimics the emotion.
+
+### [Twitgram](http://twitgram.herokuapp.com) ###
+#### Made by Daniel Jay "DJ" Hartman and Andrew "The Grand Poobah" Reda ####
+
+Twitgram is going to disrupt the funny internet content generated from your
+data." We expect a valuation similar to snapchat, but more than 3bn because it's
+like a combination of twitter AND instagram.
+
+But really, we were inspired by the webcomics "a softer world and "Twitter: The
+Comic" as well as projects like #wwis. Generate a fun comic from your instagrams
+and tweets!
 
 ### [valas (the Vengeful Auth.Log Analysis Script)](https://github.com/markmossberg/valas) ###
 #### Made by Mark Mossberg ####
