@@ -13,6 +13,16 @@ It serves as a model of what could be a protocol for bitcoin on connected
 objects as well as an example of instant or zero confirmation payments in
 bitcoin.
 
+### [GiftGuru](http://giftguru.herokuapp.com) ###
+#### Lili Jiang, Styliani (Stella) Pantela ####
+
+GiftGuru generates personalized gift suggestions for your loved ones and
+friends. After the gift receiver fills out his/her personal picks through our
+site or imports facebook likes, we analyze the data and call the amazon API to
+construct a set of most relevant gift recommendations. Target market is mainly
+college students and recent graduates, but it applies to everyone who faces gift
+picking difficulties.
+
 ### [Poetification](https://www.github.com/pietdaniel/poetification) (Finalist!) ###
 #### Made by Daniel Piet, Pasha Sadikov, and Tiffney Kitiratanasumpun ####
 
@@ -160,6 +170,47 @@ An app that allows users to create and complete challenges. The goal is to
 provide a medium for people to encourage others to try different activities in
 the form of challenges.
 
+### [Applitude](https://github.com/arjunblj/applitude) ###
+#### Made by Arjun Balaji and Luke Van Seters ####
+
+There is currently a grave deficit of audio-based adaptive color displays. With
+new technology such as Hue looking to help users express themselves in the
+somewhat untouched realm of illumination, we seek to be their shining light.
+
+### [baskets.io](https://github.com/dboudro/baskets.io) ###
+#### Made by Dylan Boudro and Kate Hutchinson ####
+
+Baskets.io visualizes important spheres of your life using D3.js
+
+We create one 'basket' visualization for each aspect of your life you would like
+to monitor (eg. Academic, Financial, Sleep, Health, etc).
+
+Each basket contains nodes that correspond to important events in that sphere of
+your life. A large red node would depict a big purchase in your financial sphere
+while a small purple node would depict a power nap in your sleep schedule
+sphere.
+
+We think this product could be used for business productivity tracking, personal
+management... really anything that needs to be easily and playfully tracked!
+
+### [Fuel](https://github.com/timothychong/Fuel-App) ###
+#### Made by Akshar Bonu, Timothy Chong, and Calvin Chin ####
+
+Fuel leverages key aspects of human nature -- the desire to set challenges for
+oneself. But, we are not like the millions of other challenge apps are there
+because we've made a challenge app that makes sure that you never fail -- that
+you never run out of fuel.
+
+When you make a challenge, you're motivated, you know exactly why you're doing
+what you're doing. Over the course of your challenge, you may want to give up
+because you've forgotten or can't feel what made you start. We solve that.
+
+Fuel lets you save what inspired you to make your challenge as messages, videos,
+and images to your later self that can recall on them when he or she maybe low
+on inspiration -- or as we like to say, low on fuel.
+
+We've made a challenge app that actually works.
+
 ### [General Chombie](http://generalchombie.com) ###
 #### Made by Marco Chiang and Steven Tso ####
 
@@ -178,3 +229,14 @@ next task. You now have 2 minutes to brush your teeth... etc.
 Our goal is to help business professionals, students, and anyone with a routine
 to make sure they are on schedule to make sure they can get to the important
 things in their day.
+
+### [valas (the Vengeful Auth.Log Analysis Script)](https://github.com/markmossberg/valas) ###
+#### Made by Mark Mossberg ####
+
+Have you ever happened to glance through some of your Ubuntu server logs and
+noticed an awful lot of really weird log in attempts from IP Addresses and users
+you don't recognize? Well have no fear, because ""valas"" (the Vengeful Auth.Log
+Analysis Script) is here to shed some light on this scene and give you some
+facts and analytics about these login attempts.
+
+oh yeah, and might just port scan them too. for fun. i mean science.
