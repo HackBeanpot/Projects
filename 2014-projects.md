@@ -32,6 +32,19 @@ they won't be changed. The poem will be presented in a clean, sharable fashion
 through a well designed web interface. The intended demographic is all literary
 lovers, poets, and artisans, et cetera.
 
+### [Productify](https://github.com/uvarovis/Productify) ###
+#### Made by Asaph Yuan and Ivan Uvarov ####
+
+It's a Chrome extension that tracks the time people spend on different
+categories of the website and presents this information to users in various
+forms including pie graph with daily statistics, bubble graph with weekly
+statistics etc. Also, it allows users to set limits for the time they spend on
+certain categories. When the limit is reached, the extension automatically
+blocks websites of this specific category. Furthermore, it allows users to enter
+distraction-free mode, where the extension blocks time-consuming website, such
+as social networks. So, it solves one of the biggest college students' problem,
+allowing them to spend time on the web more productively.
+
 ### [Echodrop](https://github.com/nickr500/echodrop) (Won Best Design!) ###
 #### Made by Matt Kolosick, Chris Beiser, Jacqueline Ali, Amelia Oon, Benji Smith, Nick Rioux, Allison Alder, Durward Benham, and Nikolai Wotton ####
 
@@ -345,4 +358,4 @@ you don't recognize? Well have no fear, because "valas" (the Vengeful Auth.Log
 Analysis Script) is here to shed some light on this scene and give you some
 facts and analytics about these login attempts.
 
-oh yeah, and might just port scan them too. for fun. i mean science.
+oh yeah, and might just port scan them too. For fun. I mean science.
