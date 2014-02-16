@@ -136,7 +136,7 @@ users to search and jump to a location, and get relevant news articles for that
 location. The entire interface is dynamic, intuitive to use and real-time.
 Currently, we are working on adding filters by topics (Technology, Sports, etc.)
 
-### [Crosspath](https://github.com/DiscoverPioneer/Halfway) (Finalist!) ### 
+### [Crosspath](https://github.com/DiscoverPioneer/Halfway) (Finalist!) ###
 #### Made by Alex Koshy, Catherine Feldman, Phil Scarfi, Justin Marple, and Marc Rudowski ####
 
 The app allows users to efficiently form groups and coordinate meeting places
