@@ -275,7 +275,7 @@ and tweets!
 
 Have you ever happened to glance through some of your Ubuntu server logs and
 noticed an awful lot of really weird log in attempts from IP Addresses and users
-you don't recognize? Well have no fear, because ""valas"" (the Vengeful Auth.Log
+you don't recognize? Well have no fear, because "valas" (the Vengeful Auth.Log
 Analysis Script) is here to shed some light on this scene and give you some
 facts and analytics about these login attempts.
 
