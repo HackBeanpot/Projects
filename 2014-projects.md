@@ -159,3 +159,22 @@ middle-man.
 An app that allows users to create and complete challenges. The goal is to
 provide a medium for people to encourage others to try different activities in
 the form of challenges.
+
+### [General Chombie](http://generalchombie.com) ###
+#### Made by Marco Chiang and Steven Tso ####
+
+Ever set up an alarm in the morning only to find yourself snoozing all the time
+and leaving yourself an unknown amount of time to get ready for class or work?
+
+General Chombie is the ultimate Pebble application that keeps you on track with
+your schedule. We break your morning routine down and set a timer for each
+individual task.
+
+For example, wake up at 6am and the first task is to shower. Your watch wakes
+you up and tells you your first task is to shower and starts the timer for 10
+minutes to get in and out. As soon as your 10 minutes is up it moves onto the
+next task. You now have 2 minutes to brush your teeth... etc.
+
+Our goal is to help business professionals, students, and anyone with a routine
+to make sure they are on schedule to make sure they can get to the important
+things in their day.
