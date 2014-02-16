@@ -3,8 +3,18 @@ layout: default
 title: HackBeanpot 2014 Projects
 ---
 
+### [BitCoffee](http://coffeehack.herokuapp.com/) (Won Most Innovative) ###
+#### Made by Andrew Sousa and Zach Ferland ####
+
+A keurig machine that was torn apart and put back together with an aruduino, ir
+sensors and wifi connectivity. It allows people to purchase a coffee in Bitcoin.
+You pay and then it will begin to dispense coffee once you place your cup down.
+It serves as a model of what could be a protocol for bitcoin on connected
+objects as well as an example of instant or zero confirmation payments in
+bitcoin.
+
 ### [Poetification](https://www.github.com/pietdaniel/poetification) (Finalist!) ###
-#### Made by Daniel Piet, Pasha Sadikov, Tiffney Kitiratanasumpun ####
+#### Made by Daniel Piet, Pasha Sadikov, and Tiffney Kitiratanasumpun ####
 
 Poetification is a free tool transmogrifying your Twitter, Facebook, and possible other data sources into a poem. The tweets and the like are atomic, so they won't be changed. The poem will be presented in a clean, sharable fashion through a well designed web interface. The intended demographic is all literary lovers, poets, and artisans, et cetera. 
 
