@@ -205,28 +205,6 @@ Our goal is to help business professionals, students, and anyone with a routine
 to make sure they are on schedule to make sure they can get to the important
 things in their day.
 
-### [Food Boy](https://github.com/HBP-BadApples/HBPFoodBoy) ###
-#### Tommy Nguyen, Nate Fuller, David Nguyen, Jenny Jolley, and Ari Ross ####
-
-Our project is Food Boy. Perhaps one of the many soon to be known names that
-have risen from nowhere. Angry Birds, Flappy Bird, anyone can name it. Simple,
-yet challenging. Developed as an Applet and soon to be ported to the Android
-platform, Food Boy will meet its way into the market. The mechanics involve
-rapidly grabbing and eating food from conveyor belts, without grabbing spoiled
-food or letting food be spilled on the floor. Test your luck against Food Boy! A
-game for all ages.
-
-### Plateonic ###
-#### Made by Oleg Vaskevich, Cameron Sun, Konstantin Gizdarski, Kevin Yang, and Bobby Singh ####
-
-### [Playlistr](https://github.com/hustheman/playlistmaker) ###
-#### Made by Gasper Chan, Michael Hu, Geoffrey Wong, and Matthew Coleman ####
-
-Everyone who's ever hosted a party or any other type of social gathering knows
-how difficult it can be to try to create that perfect playlist. Worry no more!
-With Playlistr, it's a breeze for your friends to help you find and play the
-music for an unforgettable experience.
-
 ### [BeanAdvisor](http://pastebin.com/96PYr9mS) ###
 #### Made by Christopher Scott ####
 
@@ -246,6 +224,17 @@ You click the more clicks the more awesome.
 Allows a user to upload binaries of any common architecture (x86/x64/ARM/MIPS)
 and provides a full disassembly.  Will also provide assembly and compilation
 services for .asm and .c files to all supported architectures.
+
+### [Food Boy](https://github.com/HBP-BadApples/HBPFoodBoy) ###
+#### Tommy Nguyen, Nate Fuller, David Nguyen, Jenny Jolley, and Ari Ross ####
+
+Our project is Food Boy. Perhaps one of the many soon to be known names that
+have risen from nowhere. Angry Birds, Flappy Bird, anyone can name it. Simple,
+yet challenging. Developed as an Applet and soon to be ported to the Android
+platform, Food Boy will meet its way into the market. The mechanics involve
+rapidly grabbing and eating food from conveyor belts, without grabbing spoiled
+food or letting food be spilled on the floor. Test your luck against Food Boy! A
+game for all ages.
 
 ### [Fuel](https://github.com/timothychong/Fuel-App) ###
 #### Made by Akshar Bonu, Timothy Chong, and Calvin Chin ####
@@ -278,6 +267,17 @@ rulebook.
 
 Our software aims to analyze rhythmic and tonal patterns in music. AND THEN
 KICKS ASS BECAUSE IT'S LITERALLY THE BEST THING EVER. You'll see.
+
+### Plateonic ###
+#### Made by Oleg Vaskevich, Cameron Sun, Konstantin Gizdarski, Kevin Yang, and Bobby Singh ####
+
+### [Playlistr](https://github.com/hustheman/playlistmaker) ###
+#### Made by Gasper Chan, Michael Hu, Geoffrey Wong, and Matthew Coleman #### 
+
+Everyone who's ever hosted a party or any other type of social gathering knows
+how difficult it can be to try to create that perfect playlist. Worry no more!
+With Playlistr, it's a breeze for your friends to help you find and play the
+music for an unforgettable experience.
 
 ### [Scribeo](http://scribeo.net) ###
 #### Made by Kaelan Cooter and Tyler Hallada ####
