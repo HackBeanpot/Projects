@@ -14,7 +14,7 @@ objects as well as an example of instant or zero confirmation payments in
 bitcoin.
 
 ### [GiftGuru](http://giftguru.herokuapp.com) ###
-#### Lili Jiang, Styliani (Stella) Pantela ####
+#### Made by Lili Jiang and Styliani (Stella) Pantela ####
 
 GiftGuru generates personalized gift suggestions for your loved ones and
 friends. After the gift receiver fills out his/her personal picks through our
@@ -32,7 +32,7 @@ they won't be changed. The poem will be presented in a clean, sharable fashion
 through a well designed web interface. The intended demographic is all literary
 lovers, poets, and artisans, et cetera.
 
-### [Echodrop](https://github.com/nickr500/echodrop) (Finalist!) ###
+### [Echodrop](https://github.com/nickr500/echodrop) (Won Best Design!) ###
 #### Made by Matt Kolosick, Chris Beiser, Jacqueline Ali, Amelia Oon, Benji Smith, Nick Rioux, Allison Alder, Durward Benham, and Nikolai Wotton ####
 
 Our application allows the user to anonymously place sounds at their location,
@@ -71,6 +71,12 @@ from related artists, and detailed track information afterwards. The detailed
 information we receive from this API is the core behind the track selection
 algorithm. Finally, we use Spotify's API to publish the final playlist.
 
+### [Split](https://github.com/tswartz/split) (Won Best Use of APIs!) ###
+#### Made by Rose DeMaio and Talia Swartz ####
+
+The age old problem of when your friends don't pay you for gas when you drive
+them places. Gosh, guys. Stop doing that.
+
 ### [Adventur](https://github.com/dcalacci/adventur) (Won Most Innovative!) ###
 #### Made by John Martin, James Magnarelli, Eric Chin, Alex Jolly, and Dan Calacci ####
 
@@ -83,8 +89,6 @@ Be the Indiana Jones of your social group.
 
 Explore new frontiers, just around the corner.
 Experience Adventur.
-
---
 
 Adventur provides you with a quantitative measure of how adventurous you are and
 helps you find highly rated points of interest just outside of your geographic
@@ -118,6 +122,33 @@ left. The headlines have links to the full content of the articles. It allows
 users to search and jump to a location, and get relevant news articles for that
 location. The entire interface is dynamic, intuitive to use and real-time.
 Currently, we are working on adding filters by topics (Technology, Sports, etc.)
+
+### [Crosspath](https://github.com/DiscoverPioneer/Halfway) (Finalist!) ### 
+#### Made by Alex Koshy, Catherine Feldman, Phil Scarfi, Justin Marple, and Marc Rudowski ####
+
+The app allows users to efficiently form groups and coordinate meeting places
+that are equidistant from each member. Users can quickly determine a meeting
+place and communicate it to the group through an intuitive visual display of
+results. Places can be viewed on a map or as a list. [Second github
+link:](https://github.com/JMarple/HackBean2014)
+
+### [SnappyLink](https://github.com/huyle333/snappylink) ###
+#### Made by Huy Le, Tianyou Luo, Winston Chen, and Guanchen Zhang (Owen) ####
+
+Users who browse through Reddit, Google, Wikipedia, news articles, Bing, and
+YouTube want information quickly and easily. With the SnappyLink Chrome
+extension, users may preview every article, Google link, YouTube video, and
+Reddit post by hovering their mouse over the link. The Chrome extension pops a
+mini browser within the space that displays a preview of the link, so that users
+can see whether the information is useful to them or not. Users don't want to
+waste time clicking links to read content from every page while going back and
+forth, back and forth. Instead, they want speed and efficiency to see the
+content that they need to find. The target market are users of all ages. Every
+user wants to see his or her information as fast as possible especially the
+growing demographic of high school and college students who own personal
+laptops. We exploit the abundant users of data connecting websites like Google,
+Wikipedia, and YouTube, and provide a Chrome extension that eases and speeds the
+processing of information on the web.
 
 ### [Food Boy](https://github.com/HBP-BadApples/HBPFoodBoy) ###
 #### Tommy Nguyen, Nate Fuller, David Nguyen, Jenny Jolley, and Ari Ross ####
@@ -185,12 +216,20 @@ An app that allows users to create and complete challenges. The goal is to
 provide a medium for people to encourage others to try different activities in
 the form of challenges.
 
-### [Applitude](https://github.com/arjunblj/applitude) ###
+### [Applitude](https://github.com/arjunblj/applitude) (Won ...) ###
 #### Made by Arjun Balaji and Luke Van Seters ####
 
 There is currently a grave deficit of audio-based adaptive color displays. With
 new technology such as Hue looking to help users express themselves in the
 somewhat untouched realm of illumination, we seek to be their shining light.
+
+### [BeanAdvisor](http://pastebin.com/96PYr9mS) ###
+#### Made by Christopher Scott ####
+
+By sending a tweet to @BeanAdvisor, you can get information about the best food,
+hotels, an attractions in your area. Don't forget to include a hashtag for what
+you're in the mood for (ex: #food, #noms, #hotels, #thingstodo and so on). Feel
+like a local wherever you go with @BeanAdvisor! (Brought to you by TripAdvisor)
 
 ### [baskets.io](https://github.com/dboudro/baskets.io) ###
 #### Made by Dylan Boudro and Kate Hutchinson ####
@@ -207,6 +246,18 @@ sphere.
 
 We think this product could be used for business productivity tracking, personal
 management... really anything that needs to be easily and playfully tracked!
+
+### [ClickIfYoureAwesome](http://clickifyoureawesome.zzl.org) ###
+#### Made by Patrick Collins, Niketh Murali, Alex Ung, and Albert Ung ####
+
+You click the more clicks the more awesome.
+
+### [disassemble.io](http://disassemble.io) ###
+#### Made by Michael Coppola ####
+
+Allows a user to upload binaries of any common architecture (x86/x64/ARM/MIPS)
+and provides a full disassembly.  Will also provide assembly and compilation
+services for .asm and .c files to all supported architectures.
 
 ### [Fuel](https://github.com/timothychong/Fuel-App) ###
 #### Made by Akshar Bonu, Timothy Chong, and Calvin Chin ####
@@ -252,6 +303,21 @@ next task. You now have 2 minutes to brush your teeth... etc.
 Our goal is to help business professionals, students, and anyone with a routine
 to make sure they are on schedule to make sure they can get to the important
 things in their day.
+
+### [m-Viz](https://github.com/ohnorobo/m-viz/) ####
+#### Made by Sarah "L. L. Cool J" Laplante and James Grammatikos ####
+
+Our software aims to analyze rhythmic and tonal patterns in music. AND THEN
+KICKS ASS BECAUSE IT'S LITERALLY THE BEST THING EVER. You'll see.
+
+### [Scribeo](http://scribeo.net) ###
+#### Made by Kaelan Cooter and Tyler Hallada ####
+
+Scribeo is a social text editor for creative writers that helps suggest words
+and phrases in order to facilitate the creative process. Take advantage of
+natural language processing technology to quickly and more effectively write in
+the digital age. All work is saved instantly in the cloud as you write for easy
+sharing and critiquing with friends.
 
 ### [#selfiEE](https://github.com/themeh) ###
 #### Made by Zachary Goodman and Omid Meh ####
