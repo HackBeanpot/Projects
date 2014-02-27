@@ -4,6 +4,10 @@ title: HackBeanpot Project Listings
 categories: [home]
 ---
 
-{% for year in site.data.year %}
-    <a href="{{ year.url }}" title="{{ year.title }}">{{ year.title }}</a>
-{% endfor %}
+<div class="text-center years">
+
+  {% for year in site.data.year %}
+      <h3><a href="{{ year.url }}" title="{{ year.title }}">{{ year.title }}</a></h3>
+  {% endfor %}
+
+</div>
