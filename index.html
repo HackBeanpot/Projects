@@ -1,13 +1,9 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: HackBeanpot Project Listings
+categories: [home]
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+{% for year in site.data.year %}
+    <a href="{{ year.url }}" title="{{ year.title }}">{{ year.title }}</a>
+{% endfor %}

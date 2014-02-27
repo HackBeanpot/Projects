@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HackBeanpot 2014 Projects
+title: 2014 Projects
 ---
 
 ### [BitCoffee](http://coffeehack.herokuapp.com/) (Won Most Innovative!) ###
