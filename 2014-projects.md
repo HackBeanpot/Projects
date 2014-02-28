@@ -272,7 +272,7 @@ KICKS ASS BECAUSE IT'S LITERALLY THE BEST THING EVER. You'll see.
 #### Made by Oleg Vaskevich, Cameron Sun, Konstantin Gizdarski, Kevin Yang, and Bobby Singh ####
 
 ### [Playlistr](https://github.com/hustheman/playlistmaker) ###
-#### Made by Gasper Chan, Michael Hu, Geoffrey Wong, and Matthew Coleman #### 
+#### Made by Gasper Chan, Michael Hu, Geoffrey Wong, and Matthew Coleman ####
 
 Everyone who's ever hosted a party or any other type of social gathering knows
 how difficult it can be to try to create that perfect playlist. Worry no more!
