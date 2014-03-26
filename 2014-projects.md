@@ -116,7 +116,7 @@ The age old problem of when your friends don't pay you for gas when you drive
 them places. Gosh, guys. Stop doing that.
 
 ### [Adventur](https://github.com/dcalacci/adventur) (Won Most Innovative!) ###
-#### Made by John Martin, James Magnarelli, Eric Chin, Alex Jolly, and Dan Calacci ####
+#### Made by [John Martin](https://github.com/John4), [James Magnarelli](https://github.com/jmagnarelli), [Eric Chin](https://github.com/erictchin), [Alex Jolly](https://github.com/jollex), and [Dan Calacci](https://github.com/dcalacci) ####
 
 How many people really think about how boring they are? How many people miss out
 on exciting new experiences just outside of their daily routine?
