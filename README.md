@@ -1,7 +1,7 @@
 HackBeanpot Projects
 --------------------
 
-A listing of projects made at HackBeanpot.
+A listing of projects made at HackBeanpot.  You can look at it at [hackbeanpot/projects](https://hackbeanpot.github.io/Projects).
 
 ### Where do I edit my project list?
 
