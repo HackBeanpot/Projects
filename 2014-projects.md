@@ -81,7 +81,7 @@ laptops. We exploit the abundant users of data connecting websites like Google,
 Wikipedia, and YouTube, and provide a Chrome extension that eases and speeds the
 processing of information on the web.
 
-### Untitled Mixtapes (Won Best Use of APIs!) ###
+### [Untitled Mixtapes](https://github.com/natdempk/UntitledMixtapes) (Won Best Use of APIs!) ###
 #### Made by Zack Hickman, Nat Dempkowski, and Sanders Lauture ####
 
 Untitled Mixtapes is a python-backed web application that generates mixtape
