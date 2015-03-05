@@ -66,6 +66,10 @@ h2 {
   }
 }
 
+h4 {
+  line-height: 1.333em;
+}
+
 a {
   color: $newGreen;
   text-decoration: underline;
@@ -163,4 +167,10 @@ hr {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+@media (max-width: 767px) {
+  p {
+    font-size: 16px;
+  }
 }
