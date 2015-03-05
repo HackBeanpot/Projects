@@ -10,37 +10,30 @@
     <link rel="stylesheet" href="/css/syntax.css">
 
     <!-- Custom CSS -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400italic' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/main.css">
-    <link href="http://fonts.googleapis.com/css?family=Raleway:400,300,900" rel='stylesheet' type='text/css' />
+
 
 </head>
     <body>
       <div class="container">
         <div class="row">
-          <div class="col-lg-10 col-lg-offset-1 text-center">
-            <a href="/"><img src="img/logo.png" class="logo" alt="HackBeanpot 2014 (Logo)" /></a>
-            <h1>{{ page.title }}</h1>
+          <div class="col-md-2 col-md-offset-0 col-sm-offset-0 col-xs-offset-0 text-center">
+            <a href="/"><img src="img/logo.png" class="img-responsive logo" alt="HackBeanpot 2014 (Logo)" /></a>
           </div>
+          <div class="col-md-10 col-sm-11">
+              <h1>{{ page.title }}</h1>
 
-          <div class="col-lg-10 col-lg-offset-1">
-              <p class="text-center">Is your project missing? Edits? Corrections? 
+              <p class="lead">Is your project missing? Edits? Corrections? 
                 <a href="https://github.com/HackBeanpot/Projects" target="_blank">Fork our repo.</a>
-              <p>
-          {{ content }}
+              </p>
+              <p>{{ content }}</p>
+              <hr>
+              <p class="lead">Follow the nice kids at <a href="https://twitter.com/hackbeanpot" target="_blank">@hackbeanpot</a> for more updates about HackBeanpot 2015!</p>
           </div>
         </div>
-      </div>
-
-          <div class="footer">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-12">
-                  Follow the nice kids at <a href="https://twitter.com/hackbeanpot" target="_blank">@hackbeanpot</a> for more updates about HackBeanpot 2015!
-                </div>
-              </div>
-            </div>
-          </div>
       </div>
     </body>
 </html>

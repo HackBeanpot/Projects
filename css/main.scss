@@ -10,6 +10,18 @@ $grey:   #484E45;
 
 //COLORS (2015)
 $muteAqua:  #CEE4E2;
+$ltgrey:    #f3f3f3;
+$slate:     #303840;
+$slateBlue: #34495e;
+$experimentalOrange: #f0b871;
+$newGreen:  #3eb7ae;
+
+.fancytalics {
+  font-style: italic;
+  letter-spacing: -1px;
+  word-spacing: -1px;
+  font-weight: 400;
+}
 
 /*****************************************************************************/
 /*
@@ -26,11 +38,10 @@ $muteAqua:  #CEE4E2;
 html, body { height: 100%; }
 
 body {
-  background-color: $muteAqua;
-  font-family: 'Raleway', sans-serif;
+  background-color: $ltgrey;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  color: $dkblue;
-  font-size: 1.8rem;
+  color: $slateBlue;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -38,9 +49,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { 
-  margin-bottom: 15px;
-  font-size: 2.8rem; 
-  letter-spacing: 1px;
+  @extend .fancytalics;
+  font-size: 3.5rem;
+  font-family: 'Libre Baskerville';
 }
 
 h2 {
@@ -49,21 +60,28 @@ h2 {
 
 .years h3 {
   margin: 0;
-  font-size: 4rem;
-}
-
-a { 
-  color: $clover; 
-  &:hover {
-    color: $ltmint;
+  font-size: 2.5rem;
+  a {
     text-decoration: none;
   }
 }
 
-h1 {
-  font-size: 3.2rem;
-  text-transform: uppercase;
-  font-weight: 300;
+a {
+  color: $newGreen;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+  &:hover {
+    text-decoration: none;
+    color: $experimentalOrange;
+  }
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+hr {
+  border-top: 1px solid #aaa;
 }
 
 /*****************************************************************************/
@@ -75,26 +93,24 @@ h1 {
 .logo {
   max-width: 200px;
   width: 100%;
-  margin-top: 15px;
+  margin: 15px auto 0 auto;
 }
 
 .header a {
   font-weight: bold;
   text-decoration: none;
+  &.extra {
+    color: #aaa;
+    margin-left: 1em;
+    &:hover {
+      color: #000;
+    }
+  }
 }
 
 .title {
   display: inline-block;
   margin-bottom: 2em;
-}
-
-.header a.extra {
-  color: #aaa;
-  margin-left: 1em;
-}
-
-.header a.extra:hover {
-  color: #000;
 }
 
 .meta {
