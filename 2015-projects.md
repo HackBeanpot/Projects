@@ -16,7 +16,7 @@ other twitter user's tweets. Pulling together concepts from Natural Language
 Processing, OH attempts to create a common thread between strangers on the 
 internet.
 
-### [AYFS](https://github.com/pranav/ayfs) (Won Most Technially Challenging)
+### [AYFS](https://github.com/pranav/ayfs) (Won Most Technically Challenging!)
 #### Made by Pranav Gandhi
 
 This is a distributed network filesystem that requires no local disk. All the 
@@ -61,7 +61,7 @@ personal and community gardeners in a veggie symbiosis.  If you find yourself
 with an abundance of kumquats, why not make some extra money by putting them up
 on SnowPea Me?
 
-### [Pointr](https://github.com/klevingluo/BeanPotPointr) (Won Judge's Choice Award)
+### [Pointr](https://github.com/klevingluo/BeanPotPointr) (Won Judge's Choice Award!)
 #### Made by Nikolai Wotton, Oscar Spencer, Michael Hu, and Kevin Luo
 
 You're walking in an unfamiliar area  when a sudden bout of hunger strikes from
