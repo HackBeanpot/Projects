@@ -3,7 +3,7 @@ layout: default
 title: 2015 Projects
 ---
 
-### [GitMe](github.com/vivisthebest/GitMe) (Won Best Visual/UX Design!)
+### [GitMe](https://github.com/vivisthebest/GitMe) (Won Best Visual/UX Design!)
 #### Made by Viviana Yee, Kyle Holzinger, and Ivan Uvarov
 
 A tool for analyzing your GitHub commits.
