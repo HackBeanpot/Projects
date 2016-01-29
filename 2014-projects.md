@@ -4,6 +4,7 @@ title: 2014 Projects
 ---
 
 ### [BitCoffee](http://coffeehack.herokuapp.com/) (Won Most Innovative!) ###
+
 #### Made by Andrew Sousa and Zach Ferland ####
 
 A keurig machine that was torn apart and put back together with an aruduino, ir
@@ -14,6 +15,7 @@ objects as well as an example of instant or zero confirmation payments in
 bitcoin.
 
 ### [Applitude](https://github.com/arjunblj/applitude) (Won Most Fun!) ###
+
 #### Made by Arjun Balaji and Luke Van Seters ####
 
 There is currently a grave deficit of audio-based adaptive color displays. With
@@ -21,6 +23,7 @@ new technology such as Hue looking to help users express themselves in the
 somewhat untouched realm of illumination, we seek to be their shining light.
 
 ### [Echodrop](https://github.com/nickr500/echodrop) (Won Best Design!) ###
+
 #### Made by Matt Kolosick, Chris Beiser, Jacqueline Ali, Amelia Oon, Benji Smith, Nick Rioux, Allison Alder, Durward Benham, and Nikolai Wotton ####
 
 Our application allows the user to anonymously place sounds at their location,
@@ -31,7 +34,8 @@ experience that there remain places free of ‘curation,’ in which intimate
 connections with passing strangers are allowed to retain their enduring mystery,
 and in which some information isn’t made universally accessible.
 
-### [GiftGuru](http://giftguru.herokuapp.com) (Won Intuit's Prize) ###
+### [GiftGuru](http://giftguru.herokuapp.com) (Won Intuit's Prize)###
+
 #### Made by Lili Jiang and Styliani (Stella) Pantela ####
 
 GiftGuru generates personalized gift suggestions for your loved ones and
@@ -41,7 +45,8 @@ construct a set of most relevant gift recommendations. Target market is mainly
 college students and recent graduates, but it applies to everyone who faces gift
 picking difficulties.
 
-### [Poetification](https://www.github.com/pietdaniel/poetification) (Won Least Likely to Make Money!) ###
+### [Poetification](https://www.github.com/pietdaniel/poetification) (Won Least Likely to Make Money!)###
+
 #### Made by Daniel Piet, Pasha Sadikov, and Tiffney Kitiratanasumpun ####
 
 Poetification is a free tool transmogrifying your Twitter, Facebook, and
@@ -50,7 +55,8 @@ they won't be changed. The poem will be presented in a clean, sharable fashion
 through a well designed web interface. The intended demographic is all literary
 lovers, poets, and artisans, et cetera.
 
-### [Productify](https://github.com/uvarovis/Productify) (Won Best Quantified Self Hack) ###
+### [Productify](https://github.com/uvarovis/Productify) (Won Best Quantified Self Hack)###
+
 #### Made by Asaph Yuan and Ivan Uvarov ####
 
 It's a Chrome extension that tracks the time people spend on different
@@ -63,7 +69,8 @@ distraction-free mode, where the extension blocks time-consuming website, such
 as social networks. So, it solves one of the biggest college students' problem,
 allowing them to spend time on the web more productively.
 
-### [SnappyLink](https://github.com/huyle333/snappylink) (Won Intuit's Prize) ###
+### [SnappyLink](https://github.com/huyle333/snappylink) (Won Intuit's Prize)###
+
 #### Made by Huy Le, Tianyou Luo, Winston Chen, and Guanchen Zhang (Owen) ####
 
 Users who browse through Reddit, Google, Wikipedia, news articles, Bing, and
@@ -81,7 +88,8 @@ laptops. We exploit the abundant users of data connecting websites like Google,
 Wikipedia, and YouTube, and provide a Chrome extension that eases and speeds the
 processing of information on the web.
 
-### [Untitled Mixtapes](http://www.untitledmixtap.es) (Won Best Use of APIs!) ###
+### [Untitled Mixtapes](http://www.untitledmixtap.es) (Won Best Use of APIs!)###
+
 #### Made by Zack Hickman, Nat Dempkowski, and Sanders Lauture ####
 
 Untitled Mixtapes is a python-backed web application that generates mixtape
@@ -109,13 +117,15 @@ from related artists, and detailed track information afterwards. The detailed
 information we receive from this API is the core behind the track selection
 algorithm. Finally, we use Spotify's API to publish the final playlist.
 
-### [Split](https://github.com/tswartz/split) (Won Best Use of APIs!) ###
+### [Split](https://github.com/tswartz/split) (Won Best Use of APIs!)###
+
 #### Made by Rose DeMaio and Talia Swartz ####
 
 The age old problem of when your friends don't pay you for gas when you drive
 them places. Gosh, guys. Stop doing that.
 
-### [Adventur](https://github.com/dcalacci/adventur) (Won Most Innovative!) ###
+### [Adventur](https://github.com/dcalacci/adventur) (Won Most Innovative!)###
+
 #### Made by [John Martin](https://github.com/John4), [James Magnarelli](https://github.com/jmagnarelli), [Eric Chin](https://github.com/erictchin), [Alex Jolly](https://github.com/jollex), and [Dan Calacci](https://github.com/dcalacci) ####
 
 How many people really think about how boring they are? How many people miss out
@@ -136,7 +146,8 @@ Adventur uses your past location history to create a probabilistic model that is
 capable of predicting your future movements and creating a measurement of how
 predictable your past movements have been.
 
-### [AJAT Social Gaming Platform](https://github.com/AJATInc/AJATDC) (Finalist!) ###
+### [AJAT Social Gaming Platform](https://github.com/AJATInc/AJATDC) (Finalist!)###
+
 #### Made by Alexey Shablygin, John O'rourke, Tyler McCabe, and Adam Power ####
 
 AJAT framework provides (or eventually will provide) a flexible way to create,
@@ -151,7 +162,8 @@ options to manage and modify your own game to fit specific preferences of your
 player base. The AJAT framework works across all three major operating systems,
 and will also provide a web-based interface as well.
 
-### [baskets.io](https://github.com/dboudro/baskets.io) (Finalist) ###
+### [baskets.io](https://github.com/dboudro/baskets.io) (Finalist)###
+
 #### Made by Dylan Boudro and Kate Hutchinson ####
 
 Baskets.io visualizes important spheres of your life using D3.js
@@ -167,7 +179,8 @@ sphere.
 We think this product could be used for business productivity tracking, personal
 management... really anything that needs to be easily and playfully tracked!
 
-### [The Daily Planet](http://namank.github.io/DailyPlanet/) (Finalist!) ###
+### [The Daily Planet](http://namank.github.io/DailyPlanet/) (Finalist!)###
+
 #### Made by Avery Gray, Namank Shah, and Nilesh Khaitan ####
 
 The Daily Planet is your newspaper on the globe. It displays an interactive map
@@ -177,7 +190,8 @@ users to search and jump to a location, and get relevant news articles for that
 location. The entire interface is dynamic, intuitive to use and real-time.
 Currently, we are working on adding filters by topics (Technology, Sports, etc.)
 
-### [Crosspath](https://github.com/DiscoverPioneer/Halfway) (Finalist!) ###
+### [Crosspath](https://github.com/DiscoverPioneer/Halfway) (Finalist!)###
+
 #### Made by Alex Koshy, Catherine Feldman, Phil Scarfi, Justin Marple, and Marc Rudowski ####
 
 The app allows users to efficiently form groups and coordinate meeting places
@@ -186,7 +200,8 @@ place and communicate it to the group through an intuitive visual display of
 results. Places can be viewed on a map or as a list. [Second github
 link:](https://github.com/JMarple/HackBean2014)
 
-### [General Chombie](http://generalchombie.com) (Finalist!) ###
+### [General Chombie](http://generalchombie.com) (Finalist!)###
+
 #### Made by Marco Chiang and Steven Tso ####
 
 Ever set up an alarm in the morning only to find yourself snoozing all the time
@@ -205,7 +220,8 @@ Our goal is to help business professionals, students, and anyone with a routine
 to make sure they are on schedule to make sure they can get to the important
 things in their day.
 
-### [BeanAdvisor](http://pastebin.com/96PYr9mS) ###
+### [BeanAdvisor](http://pastebin.com/96PYr9mS)###
+
 #### Made by Christopher Scott ####
 
 By sending a tweet to @BeanAdvisor, you can get information about the best food,
@@ -213,19 +229,22 @@ hotels, an attractions in your area. Don't forget to include a hashtag for what
 you're in the mood for (ex: #food, #noms, #hotels, #thingstodo and so on). Feel
 like a local wherever you go with @BeanAdvisor! (Brought to you by TripAdvisor)
 
-### [ClickIfYoureAwesome](http://clickifyoureawesome.zzl.org) ###
+### [ClickIfYoureAwesome](http://clickifyoureawesome.zzl.org)###
+
 #### Made by Patrick Collins, Niketh Murali, Alex Ung, and Albert Ung ####
 
 You click the more clicks the more awesome.
 
-### [disassemble.io](http://disassemble.io) ###
+### [disassemble.io](http://disassemble.io)###
+
 #### Made by Michael Coppola ####
 
 Allows a user to upload binaries of any common architecture (x86/x64/ARM/MIPS)
 and provides a full disassembly.  Will also provide assembly and compilation
 services for .asm and .c files to all supported architectures.
 
-### [Food Boy](https://github.com/HBP-BadApples/HBPFoodBoy) ###
+### [Food Boy](https://github.com/HBP-BadApples/HBPFoodBoy)###
+
 #### Tommy Nguyen, Nate Fuller, David Nguyen, Jenny Jolley, and Ari Ross ####
 
 Our project is Food Boy. Perhaps one of the many soon to be known names that
@@ -236,7 +255,8 @@ rapidly grabbing and eating food from conveyor belts, without grabbing spoiled
 food or letting food be spilled on the floor. Test your luck against Food Boy! A
 game for all ages.
 
-### [Fuel](https://github.com/timothychong/Fuel-App) ###
+### [Fuel](https://github.com/timothychong/Fuel-App)###
+
 #### Made by Akshar Bonu, Timothy Chong, and Calvin Chin ####
 
 Fuel leverages key aspects of human nature -- the desire to set challenges for
@@ -254,7 +274,8 @@ on inspiration -- or as we like to say, low on fuel.
 
 We've made a challenge app that actually works.
 
-### [Gather This](https://play.google.com/store/apps/details?id=com.oscode.gatherthis) ###
+### [Gather This](https://play.google.com/store/apps/details?id=com.oscode.gatherthis)###
+
 #### Made by Oscar Lee Spencer III ####
 
 It is a mobile application that assists the Magic: The Gathering player. It
@@ -268,10 +289,12 @@ rulebook.
 Our software aims to analyze rhythmic and tonal patterns in music. AND THEN
 KICKS ASS BECAUSE IT'S LITERALLY THE BEST THING EVER. You'll see.
 
-### Plateonic ###
+### Plateonic###
+
 #### Made by Oleg Vaskevich, Cameron Sun, Konstantin Gizdarski, Kevin Yang, and Bobby Singh ####
 
-### [Playlistr](https://github.com/hustheman/playlistmaker) ###
+### [Playlistr](https://github.com/hustheman/playlistmaker)###
+
 #### Made by Gasper Chan, Michael Hu, Geoffrey Wong, and Matthew Coleman ####
 
 Everyone who's ever hosted a party or any other type of social gathering knows
@@ -279,7 +302,8 @@ how difficult it can be to try to create that perfect playlist. Worry no more!
 With Playlistr, it's a breeze for your friends to help you find and play the
 music for an unforgettable experience.
 
-### [Scribeo](http://scribeo.net) ###
+### [Scribeo](http://scribeo.net)###
+
 #### Made by Kaelan Cooter and Tyler Hallada ####
 
 Scribeo is a social text editor for creative writers that helps suggest words
@@ -288,13 +312,15 @@ natural language processing technology to quickly and more effectively write in
 the digital age. All work is saved instantly in the cloud as you write for easy
 sharing and critiquing with friends.
 
-### [#selfiEE](https://github.com/themeh) (Finalist!) ###
+### [#selfiEE](https://github.com/themeh) (Finalist!)###
+
 #### Made by Zachary Goodman and Omid Meh ####
 
 Uses webcam to recognize facial emotions, transmits information over a wireless
 network to an LED grid smiley face that mimics the emotion.
 
-### [The Shaft](https://github.com/ckolek/shaft/) ###
+### [The Shaft](https://github.com/ckolek/shaft/)###
+
 #### Made by Chris Kolek, Ryan Sullivan, and Deniz Ozkaynak ####
 
 A social Android app that lets users create or join groups of friends and share
@@ -302,7 +328,8 @@ embarrassing and hilarious stories about each other. Users can vote on each
 other's stories throughout the week (votes hidden). At the end of the week the
 top story is revealed and wins the title of "The Shaft" until next week.
 
-### [Simplifly](https://github.com/secretformula/simplifly) ###
+### [Simplifly](https://github.com/secretformula/simplifly)###
+
 #### Made by Nigil Lee, Kevin Oleary, and Noah Bedford ####
 
 Email is overwhelming. Notes from lovers, haters, spammers, scammers, and
@@ -323,7 +350,8 @@ unnecessary information bound on binding you to an inferior and pitiable
 existence. You'll be safe with them, rising up into the stratos in a comfortable
 armchair, enjoying the power of simpliflight.
 
-### [Twitgram](http://twitgram.herokuapp.com) ###
+### [Twitgram](http://twitgram.herokuapp.com)###
+
 #### Made by Daniel Jay "DJ" Hartman and Andrew "The Grand Poobah" Reda ####
 
 Twitgram is going to disrupt the funny internet content generated from your
@@ -334,7 +362,8 @@ But really, we were inspired by the webcomics "a softer world and "Twitter: The
 Comic" as well as projects like #wwis. Generate a fun comic from your instagrams
 and tweets!
 
-### [valas (the Vengeful Auth.Log Analysis Script)](https://github.com/markmossberg/valas) ###
+### [valas (the Vengeful Auth.Log Analysis Script)](https://github.com/markmossberg/valas)###
+
 #### Made by Mark Mossberg ####
 
 Have you ever happened to glance through some of your Ubuntu server logs and
@@ -345,7 +374,8 @@ facts and analytics about these login attempts.
 
 oh yeah, and might just port scan them too. For fun. I mean science.
 
-### [Whisperer](http://whisperer.herokuapp.com/) ###
+### [Whisperer](http://whisperer.herokuapp.com/)###
+
 #### Made by John Kohler, Lukas Berger, and Greg Skloot ####
 
 Connects with Facebook so users can post about their friends anonymously.
@@ -353,7 +383,8 @@ Similar to the popular Facebook groups like 'northeastern complements' and
 'spotted', but offers a cleaner interface and immediate posting without a
 middle-man.
 
-### [Why Not](https://github.com/stephalee/challenge) ###
+### [Why Not](https://github.com/stephalee/challenge)###
+
 #### Made by Korbin Shuffleton, Martin Manser, and Stephanie Lee ####
 
 An app that allows users to create and complete challenges. The goal is to
