@@ -1,44 +1,10 @@
 ---
 ---
 
-//COLORS (2014)
-$dkblue: #283A4A;
-$ltgrey: #E1E8EC;
-$clover: #3DB505;
-$ltmint: #B5DB92;
-$grey:   #484E45;
-
-//COLORS (2015)
-$muteAqua:  #CEE4E2;
-$ltgrey:    #f3f3f3;
-$slate:     #303840;
-$slateBlue: #34495e;
-$experimentalOrange: #f0b871;
-$newGreen:  #3eb7ae;
-
-.fancytalics {
-  font-style: italic;
-  letter-spacing: -1px;
-  word-spacing: -1px;
-  font-weight: 400;
-}
-
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
-
-/* Global Reset */
-* {
-  margin: 0;
-  padding: 0;
-}
-
-html, body { height: 100%; }
+@import "variables";
 
 body {
-  background-color: $ltgrey;
+  background-color: $cream;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: $slateBlue;
@@ -48,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: inherit;
 }
 
-h1 { 
+h1 {
   @extend .fancytalics;
   font-size: 3.5rem;
   font-family: 'Libre Baskerville';
