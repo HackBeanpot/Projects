@@ -4,20 +4,16 @@
 @import "variables";
 
 body {
-  background-color: $cream;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-  color: $slateBlue;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
+  background-color: lighten($cream, 2%);
+  font-family: 'Lora', serif;
+  color: $navy;
 }
 
 h1 {
-  @extend .fancytalics;
-  font-size: 3.5rem;
-  font-family: 'Libre Baskerville';
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+  letter-spacing: .1em;
 }
 
 h2 {
@@ -26,23 +22,31 @@ h2 {
 
 .years h3 {
   margin: 0;
-  font-size: 2.5rem;
+  font-size: 2.5em;
   a {
     text-decoration: none;
   }
 }
 
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  letter-spacing: .05em;
+}
+
 h4 {
+  color: lighten($navy, 5%);
   line-height: 1.333em;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
-  color: $newGreen;
+  color: $cobalt;
   text-decoration: underline;
   transition: color 0.3s ease;
   &:hover {
     text-decoration: none;
-    color: $experimentalOrange;
+    color: $aqua-mid;
   }
 }
 
