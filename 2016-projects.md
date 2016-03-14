@@ -19,6 +19,10 @@ title: 2016 Projects
 
 #### Made by Arjun Balaji ####
 
+### [Emovi (by the Gettem Next Timers)](https://github.com/westinn/Emovi) (Won Most Fun Idea!) ###
+
+#### Made by Daniel Cohen and Nicolas Westin ####
+
 ### [Pecan](https://github.com/OmkarB/pecan) (Won Best Use of Wolfram Technology Award!)###
 
 #### Made by Omkar Bhat, Ty Coghlan, Raj Narayan, Kevin Liu ####
@@ -58,10 +62,6 @@ title: 2016 Projects
 ### [AfroCoding](https://github.com/agrundw/HackBeanpot2016) ###
 
 #### Made by Alex Grundwerg, Dorian Franklin ####
-
-### [Emovi (by the Gettem Next Timers)](https://github.com/westinn/Emovi) ###
-
-#### Made by Daniel Cohen and Nicolas Westin ####
 
 ### [Matthias Madness](https://github.com/emilydaniel/Matthias-Madness.git) ###
 
