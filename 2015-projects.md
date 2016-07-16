@@ -125,6 +125,7 @@ user completes each quest by receiving badges when they visit each location in t
 interest.
 
 ### Bettor
+
 #### Made by Arjun Balaji, Luke Van Seters, and Eric Yu
 
 Bettor facilitates the exchange of currency based donations assigned for
@@ -187,7 +188,7 @@ one simple screen you can see your friends advice and your conversation, while
 giving updates to your friend in real time. From giving bad news to flirting
 with the object of your affection, co-pilot will get you through it.
 
-###[Dolfin](http://dolfin.io/)
+### [Dolfin](http://dolfin.io/)
 
 #### Made by Nathan Goodman, Jesse Oberstien, and Kate Hutchinson
 
@@ -195,7 +196,7 @@ Dolfin is a casual learning application. It allows lazy people to learn awesome
 things sparing hardly any time and absolutely no money. If you wanna see our
 whole spiel, please visit our [About](http://dolfin.io/about.html) page.
 
-###[Fib](https://github.com/vijaypemmaraju/Fib)
+### [Fib](https://github.com/vijaypemmaraju/Fib)
 
 #### Made by Anne Catherine Feldman, Vijay Pemmaraju, Jake Bernstein, and James Yanyuk
 
@@ -206,11 +207,13 @@ users to connect with their Facebook friends with a mobile version of two
 truths and a lie, whereby users provide two true statements and one lie about
 themselves and challenge others to pick the fib.
 
-### [FrankenPokemon](http://www.frankenpokemon.me)
+### [FrankenPokemon](http://pokemon.cosileone.com/)
+
+[GitHub Repo](https://github.com/ohnorobo/pokemon)
 
 #### Made by Anthony Chan, Cosimo Leone, Anh Bui, Ana Cunha, and Sarah Laplante
 
-Create new exiting and/or horrifying pokemon!!
+Create new exciting and/or horrifying pokémon!!
 
 ### [FriendCast](http://friendcast.io)
 
