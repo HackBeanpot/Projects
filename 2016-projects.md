@@ -135,6 +135,6 @@ title: 2016 Projects
 
 #### Made by Marshall White ####
 
-### [NoSleepNoseBleed](https://github.com/l-tn3314/UFree) ###
+### [UFree](https://github.com/l-tn3314/UFree) ###
 
-#### Made by Tina Lee, Gabriel Centeno, Kristy Chen, Trent Duffy ####
+#### Made by [Tina Lee](https://github.com/l-tn3314), [Gabriel Centeno](https://github.com/gaboc4), [Kristy Chen](https://github.com/kristychen8), [Trent Duffy](https://trentduffy.me) ####
