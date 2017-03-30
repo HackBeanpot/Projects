@@ -75,7 +75,7 @@ title: 2016 Projects
 
 #### Made by Alejandro Mera ####
 
-### [Close Call](https://github.com/golf1052/close-call    http://hotlinering.com/) ###
+### [Close Call](https://github.com/golf1052/close-call) ###
 
 #### Made by Nat Dempkowski, Andrew Knueven, Sanders Lauture, Tevin Otieno ####
 
