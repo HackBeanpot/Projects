@@ -33,7 +33,19 @@ A modern, dynamically typed, state-of-the-art programming language that, for the
 
 SecureStash is a pill/liquor cabinet built to prevent teens from abusing their parents drugs. Using facial recognition we can authenticate users who are allowed to access certain compartments as well as capture who was trying to break in.
 
-### [Birdsong](https://github.com/wet-cole/birdsongbot) (Won Genuine's #InventTogether Award!) ###
+### [Spill.it](https://github.com/breedy231/spillit) (1st in Best Use of indico's API!) ###
+
+#### Made by Jon Corbett, Brendan Reed, Noah Appleby, and Alex Lim ####
+
+A party game using the indico API to have your friends spill the tea.
+
+### [InTune](https://github.com/feliciazhang/in-tune) (2nd in Best Use of indico's API!) ###
+
+#### Made by Catalina Berretta, Felicia Zhang, Ashna Shah and Teddy Sevilla ####
+
+Be the star of your own life film. Enter a journal entry and InTune will analyze your moods to build a playlist that is a soundtrack of your day.
+
+### [Birdsong](https://github.com/wet-cole/birdsongbot) (3rd in Best Use of indico's API and won Genuine's #InventTogether Award!) ###
 
 #### Made by Nabeel Sherazi, Kyle Coelho, Cole Wuilleumier, and Khang Bui ####
 
@@ -96,15 +108,3 @@ Our idea was an iOS application that uses the camera and/or photo library to upl
 #### Made by Warren Partridge, Ashley Deshields, Kevin Liang, Andres Rodriguez, Duy Nguyen, Gaspard Etienne, and Ryan Karjadi ####
 
 Ever wonder how happy you sound to others on Twitter? Or how sad? Or angry? Well, now you can use this Beanie Babies project to find out! You'll also be able to tell how other local Twitter users sound through their tweets, as well!
-
-### [Spill.it](https://github.com/breedy231/spillit) ###
-
-#### Made by Jon Corbett, Brendan Reed, Noah Appleby, and Alex Lim ####
-
-A party game using the indico API to have your friends spill the tea.
-
-### [InTune](https://github.com/feliciazhang/in-tune) ###
-
-#### Made by Catalina Berretta, Felicia Zhang, Ashna Shah and Teddy Sevilla ####
-
-Be the star of your own life film. Enter a journal entry and InTune will analyze your moods to build a playlist that is a soundtrack of your day.
