@@ -10,7 +10,7 @@ title: 2018 Projects
 Our interests in machine learning and web dev/UI prompted us to develop a web application which handles the Indico API and Mediawiki API to enable emotional analysis of very large and interesting datasets, namely, famous quotes (drawn from Wikiquotes).
 
 
-### [Nudge](https://github.com/sbernal2018/HackBeanPot2018) (Won Rookie of the Year Award and Genuine's #InventTogether Award!)###
+### [Nudge](https://github.com/sbernal2018/HackBeanPot2018) (Won Rookie of the Year Award and Genuine's #InventTogether Award!) ###
 
 #### Made by Sebastian Bernal, Alejandro Baez, Marc Estrada, Grigory Kimatov, and Rocktem Bhowmik ####
 
@@ -163,7 +163,7 @@ CourseOn is a web application to help students to organize which courses they ne
 #### Made by Anna Choi, Andres Rodriguez, Gabriella Roman, and Christopher Trinh ####
 
 A web application for dog owners to find their dogs some nearby playmates, since Anna owns a dog and is always looking for playmates! Made in PyCharm.
-----
+
 ### [Joe & Pedro's](https://github.com/phrmsilva/HBPTweetGenerator) ###
 
 #### Made by Pedro Silva and Joe Donovan ####
