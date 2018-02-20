@@ -9,6 +9,11 @@ title: 2018 Projects
 
 Our interests in machine learning and web dev/UI prompted us to develop a web application which handles the Indico API and Mediawiki API to enable emotional analysis of very large and interesting datasets, namely, famous quotes (drawn from Wikiquotes).
 
+### [CoOperate](https://github.com/adjkant/hackbeanpot-2018) (Won Hack to Give Back Award!) ###
+
+#### Made by Campbell Alden, Kimberly Whitney, Jessica Rouzan, and Adrian Kant ####
+
+Like TRACE reviews for co-ops but anonymous
 
 ### [Nudge](https://github.com/sbernal2018/HackBeanPot2018) (Won Rookie of the Year Award and Genuine's #InventTogether Award!) ###
 
@@ -53,12 +58,6 @@ We made an app to recognize the breed/breeds of your dog using the Indico API. W
 #### Made by Kate Rupar and Mia Fryling ####
 
 We created a game using Apples CoreML and Vision framework. The game is essentially a scavenger hunt, where the user is given the name of an item to find in 30 seconds and they only gain a point when the image recognizers sees it. There are 3 modes available, each based off of a different mlmodel; Food, Emotion, and Objects.
-
-### [CoOperate](https://github.com/adjkant/hackbeanpot-2018) (Won Hack to Give Back Award!) ###
-
-#### Made by Campbell Alden, Kimberly Whitney, Jessica Rouzan, and Adrian Kant ####
-
-Like TRACE reviews for co-ops but anonymous
 
 ### [Aerodust](https://github.com/dgiese/aerodust) ###
 
