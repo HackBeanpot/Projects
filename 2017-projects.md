@@ -47,7 +47,7 @@ Be the star of your own life film. Enter a journal entry and InTune will analyze
 
 ### [Birdsong](https://github.com/wet-cole/birdsongbot) (3rd in Best Use of indico's API and won Genuine's #InventTogether Award!) ###
 
-#### Made by Nabeel Sherazi, Kyle Coelho, Cole Wuilleumier, and Khang Bui ####
+#### Made by Nabeel Sherazi, Kyle Coelho, Cole Wuilleumier, Noah Sirin, and Khang Bui ####
 
 A Twitter bot that intelligently distinguishes haikus leveraging the latest advancements in machine learning technology and plays an accompanying musical arrangement to fit the sentiment of the text.
 
