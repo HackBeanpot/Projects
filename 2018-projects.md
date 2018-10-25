@@ -17,7 +17,7 @@ Like TRACE reviews for co-ops but anonymous
 
 ### [Nudge](https://github.com/sbernal2018/HackBeanPot2018) (Won Rookie of the Year Award and Genuine's #InventTogether Award!) ###
 
-#### Made by Sebastian Bernal, Alejandro Baez, Marc Estrada, Grigory Kimatov, and Rocktem Bhowmik ####
+#### Made by Sebastian Bernal, Alejandro Baez, Marc Estrada, Greg Kimatov, and Rocktem Bhowmik ####
 
 Have you ever fallen asleep on a bus/train and then missed your stop? Sleep deprivation is a common problem, especially among students. So, we created a mobile application called Nudge that is able to wake you up with a customizable alarm shortly before you reach your destination.
 
