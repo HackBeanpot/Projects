@@ -9,9 +9,27 @@ title: 2020 Projects
 
 Our auto-sorting trashcan will prevent people from trashing the recyclable!
 
+### [TrashTalk](https://hackbeanpot-2020.devpost.com/submissions/140700-trashtalk-table-8) (Won Best RPA Hack - Sponsored by PowerAdvocate!)
+
+#### Made by Abhinav Agrawal and Shawn Martin
+
+The battle against recycling contamination is everyone’s battle. This project is aimed towards automating waste sorting to benefit mother nature. The user clicks a picture of an item to be analyzed, and the application specifies which bin the item belongs to.
+
+### [ARMote](https://hackbeanpot-2020.devpost.com/submissions/140699-armote) (Won Most Technically Challenging!)
+
+#### Made by Andrew Tu, Megan Sapack, Tom Harmon, and Jason Booth
+
+A augmented reality remote that connects any user to local IoT devices without previous authentication required breaking down the barrier to access these technologies.
+
+### [Swipe To Vote](https://hackbeanpot-2020.devpost.com/submissions/140697-swipe-to-vote-no-17) (Won Best Boston Hack!)
+
+#### Made by Yi Zhao, Nicholas Mullikin, and Ateev Nahar
+
+Swipe to vote is a tinder-like application which provide a fun and easy swiping mechanism to encourage user to vote and to learn about politics.
+
 ### [Checkout](https://hackbeanpot-2020.devpost.com/submissions/140710-checkout-table-5) 
 
-#### Made by Anthony Mu, Krishanu Datta, ja0911 (FIX ME) and Alex Daloiso
+#### Made by Anthony Mu, Krishanu Datta, ja0911 and Alex Daloiso
 
 NEU gigs style app targeted towards college students looking to informally advertise their products, services, and social events in the Boston area. 
 
@@ -27,17 +45,35 @@ An editor to explore Programming Language Semantics to help understand how progr
 
 Volunteer Go is like Pokemon Go, but for volunteering. Join one of three teams, the owls, foxes, and otters, and help them to win the whole Boston map!
 
+### [Sprout Relationships](https://hackbeanpot-2020.devpost.com/submissions/140696-sprout-relationships) (Won Most Embodying HackBeanpot Values!)
+
+#### Made by Ciarra Peters, Luke Janik and Chev Eldrid
+
+An app to help cultivate new relationships and nurture existing ones with suggested local activities and character customization!
+
+### [Planning Planned Parenthood](https://hackbeanpot-2020.devpost.com/submissions/140592-planning-planned-parenthood) (Won Best Healthcare Hack - Sponsored By Kyruus!)
+
+#### Made by Caterina Wang and Anika Rabenhorst
+
+An algorithm for selecting a new MA Planned Parenthood location! Planning Planned Parenthood is an webpage that takes in user input on criteria they value most when selecting a Massachusetts County to place a Planned Parenthood. Our algorithmic weights each criteria based on the user's ranking, and then produces the county that had the largest weighted sum value after assigning rank weights to each criteria.
+
+### [ACTonClimateChange](https://hackbeanpot-2020.devpost.com/submissions/140583-actonclimatechange) (Won Best Visual UI/UX!)
+
+#### Made by Shraeya Srinivasan, Jill Lombardi, and Zachary Jarnagin
+
+Climate change is one of the most pressing issues of our generation. Our web application prompts people to take action in the fight against it. The climate crisis is not waiting and neither should we.
+
+### [gather](https://hackbeanpot-2020.devpost.com/submissions/140705-gather) (Won Most Inclusive Hack!)
+
+#### Made by Jodi Robertson and Johanna Loepke
+
+Gather makes get-togethers more inclusive, less wasteful, and easy to organize! Long live the potluck.
+
 ### [GoodGreen](https://hackbeanpot-2020.devpost.com/submissions/140706-goodgreen)
 
 #### Made by Dennis Kats
 
 GoodGreen is a social media app that allows for keeping track of environmental goals, both premade and user-generated. Users can add other people, join challenges, and see what their fellow users are up to. Users can see other users' pages and what challenges they're doing, and search for challenges and users.
-
-### [gather](https://hackbeanpot-2020.devpost.com/submissions/140705-gather)
-
-#### Made by Jodi Robertson
-
-Gather makes get-togethers more inclusive, less wasteful, and easy to organize! Long live the potluck.
 
 ### [StudyHusky](https://hackbeanpot-2020.devpost.com/submissions/140704-studyhusky)
 
@@ -45,39 +81,15 @@ Gather makes get-togethers more inclusive, less wasteful, and easy to organize! 
 
 A Student's Pocket Classroom Occupancy Viewer to remotely check which classrooms are occupied, which is especially helpful during midterms and finals.
 
-### [TrashTalk](https://hackbeanpot-2020.devpost.com/submissions/140700-trashtalk-table-8) (Won Best RPA Hack - Sponsored by PowerAdvocate!)
-
-#### Made by Abhinav Agrawal and Shawn Martin
-
-The battle against recycling contamination is everyone’s battle. This project is aimed towards automating waste sorting to benefit mother nature. The user clicks a picture of an item to be analyzed, and the application specifies which bin the item belongs to.
-
-### [ARMote](https://hackbeanpot-2020.devpost.com/submissions/140699-armote) (Won Most Technically Challenging!)
-
-#### Made by Andrew Tu, Megan Sapack, Tom Harmon, and Jason Booth
-
-A augmented reality remote that connects any user to local IoT devices without previous authentication required breaking down the barrier to access these technologies.
-
 ### [RecycleVision](https://hackbeanpot-2020.devpost.com/submissions/140698-recyclevision)
 
-#### Made by Farooq (fix me), Jan Simson, Solomon Mankin, and Matthew Guthrie
+#### Made by Danish Farooq, Jan Simson, Solomon Mankin, and Matthew Guthrie
 
 Sustainability in Sight - This application takes a picture of an item and categorizes it as garbage, compost, or recycling. This would help the user figure out how to properly dispose of their waste.
 
-### [Swipe To Vote](https://hackbeanpot-2020.devpost.com/submissions/140697-swipe-to-vote-no-17) (Won Best Boston Hack!)
-
-#### Made by Yi Zhao, Nicholas Mullikin, and Ateev Nahar
-
-Swipe to vote is a tinder-like application which provide a fun and easy swiping mechanism to encourage user to vote and to learn about politics.
-
-### [Sprout Relationships](https://hackbeanpot-2020.devpost.com/submissions/140696-sprout-relationships) (Won Most Embodying HackBeanpot Values!)
-
-#### Made by Ciarra Peters, Luke Janik and Chev Eldrid
-
-An app to help cultivate new relationships and nurture existing ones with suggested local activities and character customization!
-
 ### [ListNEU](https://hackbeanpot-2020.devpost.com/submissions/140694-listneu-table-10)
 
-#### Made by Sambasivam (fix me!)
+#### Made by Sambasivam 
 
 ListNEU is a marketplace for Northeastern students to buy, sell, or trade products and services. The ultimate goal of ListNEU is simply to provide a community of trust.
 
@@ -129,18 +141,6 @@ How do you get more people to start recycling? The best motivator is a little fr
 
 Spot a tune for your buddy - Creates a unique link for you. Anyone who has access to it can find out what kind of songs you've been listening to, and if they think you could do better, they'd drop a tune to a playlist that you've designated! It's social media for your music taste.
 
-### [Planning Planned Parenthood](https://hackbeanpot-2020.devpost.com/submissions/140592-planning-planned-parenthood) (Won Best Healthcare Hack - Sponsored By Kyruus!)
-
-#### Made by Caterina Wang and Anika Rabenhorst
-
-An algorithm for selecting a new MA Planned Parenthood location! Planning Planned Parenthood is an webpage that takes in user input on criteria they value most when selecting a Massachusetts County to place a Planned Parenthood. Our algorithmic weights each criteria based on the user's ranking, and then produces the county that had the largest weighted sum value after assigning rank weights to each criteria.
-
-### [ACTonClimateChange](https://hackbeanpot-2020.devpost.com/submissions/140583-actonclimatechange) (Won Best Visual UI/UX!)
-
-#### Made by Shraeya Srinivasan, Jill Lombardi, and Zachary Jarnagin
-
-Climate change is one of the most pressing issues of our generation. Our web application prompts people to take action in the fight against it. The climate crisis is not waiting and neither should we.
-
 ### [Bento](https://hackbeanpot-2020.devpost.com/submissions/140555-bento) 
 
 #### Made by Shine Kim and Kimin Lee
@@ -179,13 +179,13 @@ To promote food sustainability by encouraging food waste reduction and facilitat
 
 ### [Level Up](https://hackbeanpot-2020.devpost.com/submissions/140341-hb-submission)
 
-#### Made by Zibing Zhang, Duchri (fix me), Anisa Anuar 
+#### Made by Zibing Zhang, Duchri, Anisa Anuar 
 
 Level Up is a four-player card game. The game has some interesting mechanics that makes it both unique to implement and that's part of the reason behind why we picked it for our project!
 
 ### [Co-op Reviews](https://hackbeanpot-2020.devpost.com/submissions/140308-co-op-reviews)
 
-#### Made by Eric Stern
+#### Made by Eric Stern, Eli Kirmayer, Justin Zhang, Hobin Yang
 
 Reviewing co-op experiences! There isn't a centralized system for students to learn about company's interview processes and what it's like to co-op somewhere, as it is not as common as interning.
 
