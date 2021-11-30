@@ -43,3 +43,33 @@ A platform for more productive planning, together.
 #### Made by Nicholas Mullikin and Yi Zhao
 
 Have you ever been to someone's house and not liked the music? We check who's in the room and play their music
+
+### [Twinflame](https://devpost.com/software/twinflame)
+
+#### Made by Ashna, richardwzp, Karen Li, and Julian Crowley
+
+Twin Flame is a people matching platform, in which users answer series of questions regarding camping scenarios. We then use a custom-made algorithm to match them with whoever answered most similarly.
+
+### [YarnSpin](https://devpost.com/software/yarnspin)
+
+#### Made by Euann Gu, tanyakler, and Alice Yim
+
+A platform to crowdsource stories in real time
+
+### [Binge Watch Calculator](https://devpost.com/software/binge-watch-calculator)
+
+#### Made by Angelina Han, Kyle Smith, and Sean Kolczynski
+
+An online calculator that tells you how frequently to watch episodes to finish a TV show by a date and projects your finish date based on your current rate of watching!
+
+### [Ambiance](https://devpost.com/software/ambiance-ljqa9d)
+
+#### Made by Jaime Kvaternik, William Stevenson, Abhinav Khushalani, and Francisco Turdera
+
+An app that intelligently curates personalized music sessions for you and your friends based on your individual music taste. Great for any gathering, from a zoom meeting to a campfire sing-along!
+
+### [Spotifinder](https://devpost.com/software/spotify-tinder-thing)
+
+#### Made by kirby-chua, Shawn Robin, Ralph Dela Cruz, Nesanne Tam, and Esme Bonnin
+
+A simple way to discover new songs, using swipe functionality inspired by Tinder!
