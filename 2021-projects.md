@@ -73,3 +73,75 @@ An app that intelligently curates personalized music sessions for you and your f
 #### Made by kirby-chua, Shawn Robin, Ralph Dela Cruz, Nesanne Tam, and Esme Bonnin
 
 A simple way to discover new songs, using swipe functionality inspired by Tinder!
+
+### [VibeBeans](https://devpost.com/software/vibebeans)
+
+#### Made by Steven Lee, Mohammed Mowla, and Wahedul Mahedi
+
+Click me [Hacker] Steven Lee [Hacker] Mohammed Mowla [Hacker] Wahedul Mahedi
+
+### [Glampsite](https://devpost.com/software/glampfire)
+
+#### Made by Dennis Kats, Levikap Kaplan, Jack Rosen, Andrew Johnson, and Samuel Xifaras
+
+Set up the perfect campsite with ease (with AR!)
+
+### [Crowd Feud](https://devpost.com/software/crowd-feud)
+
+#### Made by Gianluca Rago, Michael Cosgrove, Joe Callaghan, and Tommy Keating
+
+Family-Feud style game for Twitch. The Twitch streamer (host and participants) survey the viewers for any question. Our backend groups the responses into the top categories for the game!
+
+### [NUfriends](https://devpost.com/software/nufriends)
+
+#### Made by Clayton Yan, Riley McAllister, jadenwei4, and Alan Xiao
+
+Build relationships and foster organic interactions between students!
+
+### [CoviDex](https://devpost.com/software/covidex)
+
+#### Made by Neel Sortur, Albert Zhang, Phillip Wei, and shivisood
+
+Your weekly COVID weather report
+
+### [Safe Electronics](https://devpost.com/software/safe-electronics)
+
+#### Made by Benjamin Levin and Inbar Ofer
+
+We wanted to make a simple project that utilized coding to control some electronics and the internals of a safe seemed like a cool project.
+
+### [COVID-19 Vaccine Waste Tracker](https://devpost.com/software/covid-19-vaccine-waste-tracker)
+
+#### Made by Elaina Phalen, Gabe Vordick, Sreya Katabathuni, and raemathews
+
+The CDC is unable to accurately track how many COVID-19 vaccines go to waste everyday. We want to be the solution.
+
+### [Sprout](https://devpost.com/software/sprout-8keyjb)
+
+#### Made by Jamie Lin, Spencer, and Jessica Su
+
+Create a platform to track the progress of your goals.
+
+### [SmartTravel](https://devpost.com/software/smarttravel-dztcib)
+
+#### Made by Greg Kimatov, Bhavesh Shah, Betty Ong, and Daniel Borah
+
+We want to help people travel safely and learn what locations related to their interests are currently open in their city of choice.
+
+### [CampfireQueue](https://devpost.com/software/campfirequeue)
+
+#### Made by Hayden DeAngelis, Ben Henderson, Esteban D. Espinoza, Danish Farooq, and Ashwin K Ashok
+
+Ever tired of listening to bad songs at a socially distanced outdoor gathering or online? CampfireQueue is a website that allows people to add songs to a queue and vote on which song to play next.
+
+### [NattyTracker](https://devpost.com/software/nattytracker)
+
+#### Made by Spenser Cheung and Christopher Myers
+
+We wanted to make a simple web app that will allow you to easily find information about National Parks and allow you to better plan your next trip!
+
+### [Where to go when](https://devpost.com/software/where-to-go-when)
+
+#### Made by SophBr Breunig and Jan Simson
+
+An interactive map to look for different activities across the world and the best time of year to travel there to fit your temperature preferences.
