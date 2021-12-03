@@ -145,3 +145,93 @@ We wanted to make a simple web app that will allow you to easily find informatio
 #### Made by SophBr Breunig and Jan Simson
 
 An interactive map to look for different activities across the world and the best time of year to travel there to fit your temperature preferences.
+
+### [FriendForest](https://devpost.com/software/friendforest)
+
+#### Made by Nivashini Suresh, Hadeel Farhan, Claire W., and jennya-alexeyeva
+
+Keeping in touch doesn't have to be hard. FriendForest reminds you to interact, gives you fun prompts, and stores events with your friends in shared calendars. Keep your friendship (tree) alive!
+
+### [Name That 90's Music Video!](https://devpost.com/software/name-that-90-s-music-video)
+
+#### Made by Vanessa Chatman, Jeannille Hiciano, and Yoselyn Cervantes
+
+Quiz to see if you can recognize and name some of the most iconic 90's music videos from 1 still alone!
+
+### [EstimatedTimeOfArrival](https://devpost.com/software/estimatedtimeofarrival)
+
+#### Made by Tara Tam and Edward Fu
+
+My Tamagotchi ate my homework?
+
+### [Smokey Bot](https://devpost.com/software/smokey-bot)
+
+#### Made by Nicholas Kim, Mitch Radvansky and Christopher Youn
+
+A chat bot that answers your common questions about national parks
+
+### [LocalRelief](https://devpost.com/software/localrelief-egnc80)
+
+#### Made by Rahul Rao and willpreebs
+
+A simple web app that connects those who need things with those who have them in real time.
+
+### [Spotify Discovery Network](https://devpost.com/software/spotify-network)
+
+#### Made by jcorf, Kayla Wang and Shreyam Taneja
+
+It is theorized that all people are connected within six degrees of separation. The Spotify Network utilizes that concept traverse the connection between artists based on song collaborations.
+
+### [Sustainability Check Chrome Extension](https://devpost.com/software/sustainability-check-chrome-extension)
+
+#### Made by Birkenesl Birkenes
+
+This chrome extension is meant to aid an environmentally-savy clothing shopper, by providing a quick sustainability check on the materials of the product (upon user selection).
+
+### [Covid Data Compiler (CDC)](https://devpost.com/software/covid-data-compiler-cdc)
+
+#### Made by Emily Hendrick, arielmahler, and Kristina Fujimoto
+
+Compiling basic covid info for Massachusetts.
+
+### [Your Board](https://devpost.com/software/your-board)
+
+#### Made by Kevin Cam, Vincent Spitale, Christopher Wu, and Paul Chafetz
+
+Covid-19 has led to a rise in symptoms of loneliness due to isolation in quarantine. Thus, we created a chrome extension that converts the new tab page to a canvas where friends can leave messages.
+
+### [Planting your Life](https://devpost.com/software/planting-your-life)
+
+#### Made by Sahil Sangwan, Luca Demian, and Claire Chen
+
+Planting your life starts here! Become a more mindful and conscientious person by setting your goals and timelines to reach them with this fun and empowering app.
+
+### [Smid the Smore](https://devpost.com/software/smid-the-smore)
+
+#### Made by Kelly Jialin Ma, Jonathan Huang, Karen Zhu, and Cesare Lucido
+
+Smid the Smore is a fun and interactive Discord bot!
+
+### [spotiFYE](https://devpost.com/software/spotifye)
+
+#### Made by Thomas Purcell, Tri Watanasuparp, and Rachel Li
+
+Compare your short term top listened to tracks with your long term listened to tracks on Spotify with our spotiFYE web app!
+
+### [Foster Friends](https://devpost.com/software/foster-friends)
+
+#### Made by Abby Dennin, priyankalal7, and kreenatotala
+
+Our goal is to make an app that connects foster parents to shelters in order to streamline the foster process. Overall, our app streamlines the foster process for the shelters, parents, and kittens.
+
+### [dogGo: find your match!](https://devpost.com/software/doggo-find-your-match)
+
+#### Made by Belle Lim, Deirdre Murphy, Grace Ding, Joy Abe, Arkaprabha Ghatak, Ian Legge, and Onotina Imoudu
+
+Adoption is a complex two-way street. We want to make it easier. Match your personality to a potential dog near you up for adoption!
+
+### [Hiking With Dad](https://devpost.com/software/hiking-with-dad)
+
+#### Made by Sebastien Fousse
+
+A dad themed chatbot that can prepare a packing list for a day hike.
